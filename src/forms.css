@@ -1,0 +1,67 @@
+.tituloforms{
+    position: relative;
+    font-size: 24px;
+    font-weight: 700;
+    right: 200px;
+}
+.tituloforms2{
+    position: relative;
+    font-size: 24px;
+    font-weight: 700;
+    right: 100px;
+}
+.tituloforms3{
+    position: relative;
+    font-size: 24px;
+    font-weight: 700;
+    right: 180px;
+}
+.input-group{
+   height: 60px;
+}
+.escrever{
+    font-size: 16px;
+    padding: 10px;
+    width: 700px;
+}
+.data{
+    font-size: 20px;
+    position: relative;
+    right: 220px;
+
+}
+.checkbox-group{
+    position: relative;
+    font-size: 20px;
+    right: 350px;
+}
+.checkbox-group2{
+    position: relative;
+    font-size: 20px;
+    right: 271px;
+}
+.checkbox-group3{
+    position: relative;
+    font-size: 20px;
+    right: 310px;
+}
+.checkbox-group4{
+    position: relative;
+    font-size: 20px;
+    right: 327px;
+}
+.input-range{
+    position: relative;
+    font-size: 18px;
+    right: 290px;
+}
+.SatisfacaoGeral{
+    position: relative;
+    left: 290px;
+    width: 740px;
+}
+.botao-enviar{
+    width: 100px;
+    font-size: 16px;
+    padding: 5px;
+}

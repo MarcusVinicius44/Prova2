@@ -1,0 +1,30 @@
+.imghome{
+    margin-top: 50px;
+}
+
+.img1{
+    position: relative;
+    margin-right: 12px;
+}
+.img2{
+    position: relative;
+    margin-right: 12px;
+}
+.titulohome{
+    position: relative;
+    font-size: 40px;
+}
+.subhome{
+    font-weight: 450;
+}
+.legenda{
+    
+    display: flex;
+    margin-right: 50px;
+    color: rgb(12, 79, 223);
+}
+.legenda h3{
+    margin-right: 67px;
+    position: relative;
+    left: 380px;
+}
